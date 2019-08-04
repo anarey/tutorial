@@ -72,7 +72,7 @@ Usa este comando en tu consola:
 
 {% filename %}command-line{% endfilename %}
 
-    $ sudo dnf instalar python3
+    $ sudo dnf install python3
     
 
 En versiones anteriores de Fedora tal vez te salga un error de que no se encuentra el comando `dnf`. En ese caso utiliza `yum` en su lugar.
